@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Co-Shadow
-- 👀 I’m interested mostly in Level Design. I also do a handy work in programming with languages such as Java, Python, C++ and some C#.
-- 🌱 I’m currently expanding my knowledge in programming due to Uni studies and some personal interest. Also doing a handy work in learning Game Design Engines.
+- 👋 Hey there, I’m @Co-Shadow.
+-       Name is Simon.
+- 
+- 👀 I’m interested in a lot of things, from level design with the source engine to programming with languages, mostly C# and anything around the .NET ecosystem.
+- 🌱 I’m currently expanding my knowledge in programming due to Uni studies and some personal interest. Also doing a handy work in learning Game Design Engines, mostly Unity and Godot.
 
 <!---
 Co-Shadow/Co-Shadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
